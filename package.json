@@ -1,0 +1,18 @@
+{
+  "name": "nodejs-app4-controllers",
+  "version": "1.0.0",
+  "description": "NodeJS application demo - create controllers for desired routes",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "NodeJS-App4-Contollers"
+  },
+  "author": "rinkeshpatel22",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
